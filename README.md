@@ -2,7 +2,7 @@
 
 Este projeto tem por objetivo identificar e projetar um controlador digital no plano z pelo método do lugar das raízes utilizando uma planta conhecida. Buscando reduzir o tempo de acomodação e o sobre-sinal pela metade do seus respectivos valores. O circuito proposto é apresentado na figura 1.
 
-![Polissonografia_1](./img/circuit.png "Circuito proposto")
+![circuit_1](./img/circuit.png "Circuito proposto")
 
 Figura 1. Circuito proposto.
 
